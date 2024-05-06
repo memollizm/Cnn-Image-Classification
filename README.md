@@ -30,8 +30,8 @@ Geliştirilen model, görüntülerdeki desenleri ve özellikleri tanımak için 
 
 3. Veri setini hazırlayın: <br>
    
-   - Eğitim veri setini `dataset/training_set` dizinine yerleştirin.
-   - Test veri setini `dataset/test_set` dizinine yerleştirin.
+* Eğitim veri setini `dataset/training_set` dizinine yerleştirin.
+* Test veri setini `dataset/test_set` dizinine yerleştirin.
 
 <br>
 
