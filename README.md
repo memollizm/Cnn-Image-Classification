@@ -25,6 +25,7 @@ Geliştirilen model, görüntülerdeki desenleri ve özellikleri tanımak için 
 2. Gerekli kütüphaneleri yükleyin: <br>
 * `pip install tensorflow`
 * `pip install keras`
+* `pip install Flask`
 
 <br>
 
@@ -46,9 +47,27 @@ Geliştirilen model, görüntülerdeki desenleri ve özellikleri tanımak için 
 <br>
 
 
+
+
+
+<div align="center"> <h1>Web Arayüzü</h1> </div>
+
+<br>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e651ea5c-32e1-4e25-b01b-2e4bfe1adec9" alt="anaSayfa"/>
+</p>
+
+
+<br>
+
 <div align="center"> <h2>Katkıda Bulunma</h2> </div>
 
 - Bu projeye katkıda bulunmak istiyorsanız, bir çekme isteği (pull request) açabilirsiniz.
 
 
 [cnn]: https://media.licdn.com/dms/image/D5612AQGOui8XZUZJSA/article-cover_image-shrink_720_1280/0/1680532048475?e=2147483647&v=beta&t=8aodfukDSrrnnxOVSNobKYJtbtSDB7yC83LUky-Ob68
+
+
+
