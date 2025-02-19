@@ -67,7 +67,7 @@ Geliştirilen model, görüntülerdeki desenleri ve özellikleri tanımak için 
 - Bu projeye katkıda bulunmak istiyorsanız, bir çekme isteği (pull request) açabilirsiniz.
 
 
-[cnn]: https://media.licdn.com/dms/image/D5612AQGOui8XZUZJSA/article-cover_image-shrink_720_1280/0/1680532048475?e=2147483647&v=beta&t=8aodfukDSrrnnxOVSNobKYJtbtSDB7yC83LUky-Ob68
+[cnn]: https://bigumigu.com/wp-content/uploads/2022/06/evcil-hayvan-kapisi_petvation_bigumigu.jpeg
 
 
 
